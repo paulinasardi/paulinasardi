@@ -25,11 +25,11 @@ FLIR Tools · DJI Terra · Python (rasterio · geopandas) · GitHub
 
 | Repo | Description |
 |------|-------------|
-| [gis-cartografia-qgis](https://github.com/paulinasardi/gis-cartografia-qgis) | Cartography, symbology, raster analysis |
-| [teledeteccion-agro-forestal](https://github.com/paulinasardi/teledeteccion-agro-forestal) | NDVI, NDWI, Sentinel-2 analysis |
-| [fotogrametria-odm](https://github.com/paulinasardi/fotogrametria-odm) | Orthomosaics, DSM, 3D point clouds |
-| [termografia-drones](https://github.com/paulinasardi/termografia-drones) | Thermal inspection, solar panels |
-| [dji-planificacion-vuelo](https://github.com/paulinasardi/dji-planificacion-vuelo) | DJI Terra, mission planning |
+| [gis-cartography-qgis](https://github.com/paulinasardi/gis-cartografia-qgis) | Cartography, symbology, raster analysis |
+| [agro-forest-remote-sensing](https://github.com/paulinasardi/teledeteccion-agro-forestal) | NDVI, NDWI, Sentinel-2 analysis |
+| [photogrammetry-odm](https://github.com/paulinasardi/fotogrametria-odm) | Orthomosaics, DSM, 3D point clouds |
+| [thermal-drone-inspection](https://github.com/paulinasardi/termografia-drones) | Thermal inspection, solar panels |
+| [dji-flight-planning](https://github.com/paulinasardi/dji-planificacion-vuelo) | DJI Terra, mission planning |
 | [python-gis](https://github.com/paulinasardi/python-gis) | rasterio, geopandas, automation scripts |
 | [portfolio-paulina-sardi](https://github.com/paulinasardi/portfolio-paulina-sardi) | Complete portfolio projects |
 
