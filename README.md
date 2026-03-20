@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Paulina Sardi 👋
 
-<!--
-**paulinasardi/paulinasardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GIS & Drone Mapping Technician** | Forestry · Precision Agriculture · Photogrammetry  
+📍 La Pampa, Argentina → Uruguay 2027
 
-Here are some ideas to get you started:
+I'm building a complete GIS, remote sensing and photogrammetry portfolio,
+publicly documenting every project as I develop my technical stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What sets me apart: I combine an analytical and management background with
+geospatial technical skills. I don't just process data — I organize it,
+document it, and communicate results to both operational teams and
+decision-makers.
+
+---
+
+## 🛠️ Tech Stack
+
+QGIS · SCP Plugin · Sentinel-2 · Copernicus Browser  
+NDVI · NDWI · Multispectral Analysis · Agisoft Metashape  
+FLIR Tools · DJI Terra · Python (rasterio · geopandas) · GitHub
+
+---
+
+## 📁 Repositories
+
+| Repo | Description |
+|------|-------------|
+| [gis-cartografia-qgis](https://github.com/paulinasardi/gis-cartografia-qgis) | Cartography, symbology, raster analysis |
+| [teledeteccion-agro-forestal](https://github.com/paulinasardi/teledeteccion-agro-forestal) | NDVI, NDWI, Sentinel-2 analysis |
+| [fotogrametria-odm](https://github.com/paulinasardi/fotogrametria-odm) | Orthomosaics, DSM, 3D point clouds |
+| [termografia-drones](https://github.com/paulinasardi/termografia-drones) | Thermal inspection, solar panels |
+| [dji-planificacion-vuelo](https://github.com/paulinasardi/dji-planificacion-vuelo) | DJI Terra, mission planning |
+| [python-gis](https://github.com/paulinasardi/python-gis) | rasterio, geopandas, automation scripts |
+| [portfolio-paulina-sardi](https://github.com/paulinasardi/portfolio-paulina-sardi) | Complete portfolio projects |
+
+---
+
+## 🎯 Goal
+
+To contribute to forest inventory, crop monitoring and territorial analysis
+projects in the agroindustrial sector of Argentina and Uruguay as a
+**GIS Analyst** or **Photogrammetry Technician**.
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulina_Sardi-blue?logo=linkedin)](https://www.linkedin.com/in/paulina-sardi-34a920238/)
