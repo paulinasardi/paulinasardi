@@ -1,7 +1,7 @@
 # Hi, I'm Paulina Sardi 👋
 
 **GIS & Drone Mapping Technician** | Forestry · Precision Agriculture · Photogrammetry  
-📍 La Pampa, Argentina → Uruguay 2027
+📍 La Pampa, Argentina 
 
 I'm building a complete GIS, remote sensing and photogrammetry portfolio,
 publicly documenting every project as I develop my technical stack.
