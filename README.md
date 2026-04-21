@@ -26,8 +26,8 @@ FLIR Tools · DJI Terra · Python (rasterio · geopandas) · GitHub
 | Repo | Description |
 |------|-------------|
 | [gis-cartography-qgis](https://github.com/paulinasardi/gis-cartografia-qgis) | Cartography, symbology, raster analysis |
-| [agro-forest-remote-sensing](https://github.com/paulinasardi/teledeteccion-agro-forestal) | NDVI, NDWI, Sentinel-2 analysis |
 | [photogrammetry-odm](https://github.com/paulinasardi/fotogrametria-odm) | Orthomosaics, DSM, 3D point clouds |
+| [agro-forest-remote-sensing](https://github.com/paulinasardi/teledeteccion-agro-forestal) | NDVI, NDWI, Sentinel-2 analysis | 
 | [thermal-drone-inspection](https://github.com/paulinasardi/termografia-drones) | Thermal inspection, solar panels |
 | [dji-flight-planning](https://github.com/paulinasardi/dji-planificacion-vuelo) | DJI Terra, mission planning |
 | [python-gis](https://github.com/paulinasardi/python-gis) | rasterio, geopandas, automation scripts |
